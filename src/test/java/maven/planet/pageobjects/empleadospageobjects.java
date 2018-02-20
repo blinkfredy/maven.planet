@@ -32,9 +32,38 @@ public class empleadospageobjects extends PageObject {
 	}
 	
 	public void click_encuentrame() {
-		findBy("//*[@id='patternSideBarContents']/span[7]/a").and().click();
+		findBy("//*[@id='patternSideBarContents']/span/a[contains(., 'Encuéntrame')]").and().click();
 	}
+	
 	public void click_empleados() {
-		findBy("//*[@id=\"patternMainContents\"]/div[3]/div[1]/ul/li[1]/a").and().click();		
+		findBy("//li/a[contains(., 'Empleados')]").and().click();		
+	}
+	
+	public void txtNombre(String nombre) {		
+		findBy("//*[@id=\"nombre\"]").and().type(nombre);		
+	}	
+	
+	public void txtApellidos(String apellidos) {		
+		findBy("//*[@id=\"apellidos\"]").and().type(apellidos);		
+	}
+	
+	public void cmbPais(String pais) {		
+		findBy("//*[@id=\"pais\"]").and().selectByVisibleText(pais);	
+	}
+	
+	public void cmbCiudad(String ciudad) {		
+		findBy("//*[@id=\"ciudad\"]").and().selectByVisibleText(ciudad);//Medellín	
+	}
+	
+	public void lnkBuscar() {		
+		findBy("//*[@id=\"patternMainContents\"]/div[3]/div[1]/div[1]/table/tbody/tr[4]/td/a").and().click();
+		WebElementFacade imgLoading = find(By.xpath("//*[@id='loadingsearch']"));
+		imgLoading.waitUntilNotVisible();
+	}
+	
+	public void VerificaResult(String i) {
+		WebElementFacade lblResult = find(By.xpath("//*[@id='tablaempleados']/tbody/tr/td/span[@style='float: left']"));
+		String strMensaje = lblResult.getText();
+		assertThat(strMensaje, containsString("Se encontraron "+i+" empleados"));		
 	}
 }

@@ -1,0 +1,920 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US"><head>
+<title> DirectorioEmpleados &lt; Empleados &lt; Planet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="http://planet.choucairtesting.com/pub/System/LogosChoucair/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://planet.choucairtesting.com/pub/System/LogosChoucair/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://planet.choucairtesting.com/bin/edit/Empleados/DirectorioEmpleados?_T=2018/02/20" type="application/x-wiki" title="edit DirectorioEmpleados" />
+<meta name="WEBTOPIC" content="DirectorioEmpleados" />
+<meta name="WEB" content="Empleados" />
+<meta name="SCRIPTURLPATH" content="/bin" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Ir a" />
+<meta name="TEXT_SEARCH" content="Buscar" />
+<meta name="TEXT_NUM_TOPICS" content="Número de temas:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modificar búsqueda" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/bin/view/Empleados/WebRss" />
+<base href="http://planet.choucairtesting.com/bin/view/Empleados/DirectorioEmpleados" />
+
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikilib.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/PatternSkin/pattern.js"></script><style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinChoucair/layout.css');
+@import url('/pub/System/PatternSkinChoucair/style.css');
+@import url('/pub/System/PatternSkinChoucair/colors.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinChoucair/column_left.css');
+@import url('/pub/System/PatternSkinChoucair/theme_foswiki_noframe.css');
+</style><style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .foswikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#065168;
+	}
+	
+
+.patternBookView {
+	border-color:#065168;
+}
+.patternPreviewPage #patternMain {
+	/* uncomment to set the preview image */
+	/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+}
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/PatternSkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	height:1%;
+	overflow-x:auto;
+}
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiStyles.js"></script><style type="text/css" media="all">.foswikiMakeVisible{display:inline;}.foswikiMakeVisibleInline{display:inline;}.foswikiMakeVisibleBlock{display:block;}.foswikiMakeHidden{display:none;}</style>
+<link rel="stylesheet" href="/pub/System/EditChapterPlugin/ecpstyles.css" type="text/css" media="all" /> <!-- EDITCHAPTERPLUGIN -->
+<meta name="foswiki.PUBURL" content="http://planet.choucairtesting.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://planet.choucairtesting.com/bin" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="/bin" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="2018/02/20%20-%2016:24" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="choucair%2cpattern" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="DirectorioEmpleados" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="ralvarez" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Empleados" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="RodrigoAndresAlvarezMaya" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.RodrigoAndresAlvarezMaya" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="%5b%5cs%5c*%3f~%5e%5c%24%40%25%22'%26%3b%7c%3c%3e%5c%5b%5c%5d%5cx00-%5cx1f%5d" /> <!-- NAMEFILTER -->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="%25TWISTYANIMATIONSPEED%25" /> <!-- TWISTYANIMATIONSPEED --> <!-- JQUERYPLUGIN::FOSWIKI::META -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/jquery-1.3.2.js"></script> <!-- JQUERYPLUGIN -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1"></script> <!-- JQUERYPLUGIN::LIVEQUERY -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01"></script> <!-- JQUERYPLUGIN::FOSWIKI -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/bgiframe/jquery.bgiframe.js?version=2.1.2"></script> <!-- JQUERYPLUGIN::BGIFRAME -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/easing/jquery.easing.js?version=1.3"></script> <!-- JQUERYPLUGIN::EASING -->
+</head><body class="patternViewPage foswikiJs">
+<a name="PageTop"></a><div class="foswikiPage"><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents"><div class="patternTop"><span class="patternHomePath foswikiLeft"><span class="patternHomePathTitle">Usted está aquí: </span><a href="/bin/view/Main/WebHome" title="jctrujillo - 2016/01/26 - 10:13 - r1.313: ">Planet</a><span class="foswikiSeparator">&gt;</span><a href="/bin/view/Empleados/WebHome">Web Empleados</a><span class="foswikiSeparator">&gt;</span><a href="/bin/view/Empleados/Directorio" title="admin - 2015/01/05 - 15:22 - r1.9: Directorios de Empleados y Clientes Empleados Organizaciones">Directorio</a><span class="foswikiSeparator">&gt;</span><a href="http://planet.choucairtesting.com/bin/view/Empleados/DirectorioEmpleados" title="Revisión del tema: 197 (2015/01/05 - 15:22:39)">DirectorioEmpleados</a> <span class="patternRevInfo">(2015/01/05, <a href="/bin/view/Main/AdminUser" title="ProjectContributor - 2009/01/09 - 07:00 - r1.1: Wiki Administrator User The AdminUser allows you to login without needing to register a user, or to temporarily login as AdminUser using the password set in configure ...">AdminUser</a>)</span></span><!-- /patternHomePath--><span class="patternToolBar foswikiRight"><span class="foswikiRequiresChangePermission"><a href="http://planet.choucairtesting.com/bin/edit/Empleados/DirectorioEmpleados?t=1519161895" rel="nofollow" title="Editar texto de este tema" accesskey="e"><span class="foswikiAccessKey">E</span>ditar</a></span><span class="foswikiRequiresChangePermission"><a href="/bin/attach/Empleados/DirectorioEmpleados" rel="nofollow" title="Adjuntar una imagen o documento a este tema" acceskey="a"><span class="foswikiAccessKey">A</span>djuntar</a></span></span><!-- /patternToolBar--><br class="foswikiClear" /></div><!--/patternTop--><div class="foswikiContentHeader"></div><div class="patternContent"><div class="foswikiTopic"><style type="text/css">
+#tablaempleados { display: none}
+</style>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/System/JQueryPlugin/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/Estructuras/FullCalendar/ui.core.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/Estructuras/FullCalendar/ui.draggable.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/Estructuras/FullCalendar/ui.resizable.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/Estructuras/FullCalendar/fullcalendar.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/Estructuras/FullCalendar/jquery.qtip-1.0.0-rc3.min.js"></script>
+<p>
+<style>
+.telNumber td {border-style: hidden; padding: 0px 2px;}
+.telLabel {font-size: 0.7em;}
+</style>
+<script type="text/javascript">
+// State lists
+var paisciudad = [{}];
+$(document).ready(function () {
+$.ajax({
+      async: false,
+      url: "/bin/view/Estructuras/BusquedaDePaisesJSON",
+      type: 'get', 
+      data: {skin: 'text'},
+      dataType: "json",
+      success: function (json) {                      
+                          var options = "&lt;option value=''&gt;&lt;/option&gt;";
+                          paisciudad = json;
+                          for (var i = 0; i &lt; json.length; i++) {
+                                 if(json[i].nombre == ''){
+                                      options += "&lt;option value='" + json[i].nombre + "'selected&gt;" + json[i].nombre + "&lt;/option&gt;";
+                                 }else{
+                                      options += "&lt;option value='" + json[i].nombre + "'&gt;" + json[i].nombre + "&lt;/option&gt;";
+                                 }
+ 
+                          }
+                          $("select#pais").html(options);
+                          $("select.pais").html(options);
+                          $('#maspaises').html('&lt;a href="http://planet.choucairtesting.com/bin/view/Estructuras.CrearPais" target="_blank" title="Agregar País"&gt;&lt;img width="16" alt="newtopic" align="top" src="/pub/System/DocumentGraphics/newtopic.gif" height="16" border="0" /&gt;&lt;/a&gt;');
+                          $('.maspaises').html('&lt;a href="http://planet.choucairtesting.com/bin/view/Estructuras.CrearPais" target="_blank" title="Agregar País"&gt;&lt;img width="16" alt="newtopic" align="top" src="/pub/System/DocumentGraphics/newtopic.gif" height="16" border="0" /&gt;&lt;/a&gt;');
+      },
+      error: function (json){
+                         $("select#pais").html("&lt;option value='asdasASDASCBGFNFHASDSAN1234566'&gt;No hay paises registrados...&lt;/option&gt;");                      
+                         $("select.pais").html("&lt;option value='asdasASDASCBGFNFHASDSAN1234566'&gt;No hay paises registrados...&lt;/option&gt;");                      
+      }
+});
+});
+function writeNumber(country, city){
+if (city != "#"){
+  try{
+       $('#paisInd').val(country);
+       $('#ciudadInd').val(city);
+       $('.paisInd').html('+' + country);
+       $('.ciudadInd').html(city);
+
+  }catch(err){
+        country = country;
+  }
+
+}else{
+  try{
+       $('#paisInd').val(country);
+       $('#ciudadInd').val(''); 
+       $('.paisInd').html('+' + country);
+       $('.ciudadInd').html('');
+
+  }catch(err){
+        country = country;
+  }
+}
+}
+function setStates() {
+  var stateList = [];
+  cntrySel = document.getElementById('pais');
+  for(var i = 0; i &lt; paisciudad.length; i++ ){
+       if(paisciudad[i].nombre == cntrySel.value) {
+         for(var j = 0; j &lt; paisciudad[i].ciudades.length; j++) {
+              stateList[j] = paisciudad[i].ciudades[j].nombre;
+         }
+         $('#masciudades').html('&lt;a href="http://planet.choucairtesting.com/bin/view/' + paisciudad[i].url + '" target="_blank"  title="Agregar País"&gt;&lt;img width="16" alt="newtopic" align="top" src="/pub/System/DocumentGraphics/newtopic.gif" height="16" border="0" /&gt;&lt;/a&gt;');
+         writeNumber(paisciudad[i].indicativo, '#');
+         changeSelect('ciudad', stateList, stateList);            
+         break;
+       }
+  }  
+}
+function setPrefix() {
+  stateSel = document.getElementById('ciudad');
+  cntrySel = document.getElementById('pais');
+  for(var i = 0; i &lt; paisciudad.length; i++ ){
+       if(paisciudad[i].nombre == cntrySel.value) {
+         for(var j = 0; j &lt; paisciudad[i].ciudades.length; j++) {
+              if(paisciudad[i].ciudades[j].nombre == stateSel.value) {
+                 writeNumber(paisciudad[i].indicativo, paisciudad[i].ciudades[j].indicativo);
+                 break;
+              }
+         }
+         break;
+       }
+  }
+}
+function changeSelect(fieldID, newOptions, newValues) {
+  var setdefault = 0;
+  var options = '';
+  selectField = document.getElementById(fieldID);
+  selectField.options.length = 0;
+  selectField.options[selectField.length] = new Option('','');
+  options = "&lt;option value=''&gt;&lt;/option&gt;";
+  for (i=0; i&lt;newOptions.length; i++) {
+     if((newOptions[i] == '') &amp;&amp; (setdefault == 0)){
+       options += "&lt;option value='" + newValues[i] + "' selected&gt;" + newOptions[i] + "&lt;/options&gt;";
+       setdefault = 1;
+     }else{
+      options += "&lt;option value='" + newValues[i] + "'&gt;" + newOptions[i] + "&lt;/options&gt;";
+     }
+  }
+  $('#ciudad').html(options);
+}
+
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+
+addLoadEvent(function() {
+  setStates();
+  setPrefix();
+});
+</script>
+</p><p>
+<style type="text/css">
+#tablaempleados{ display: none}
+#changingPage{ display: none}
+#loadingsearch{ display: none}
+</style>
+<script type="text/javascript">
+var searchresult = [{}];
+var empleados = [{}];
+var alphasearch = "";
+var organizaciones = [{}];
+var organizacionessede = [{}];
+var c=0;
+var t;
+var timer_is_on=0;
+var page = 0;
+var pagemax = 1;
+var searchtotal = 0;
+var filtered = 0;
+var maxrows = 15;
+var alpha = '';
+foswiki.web = "Empleados";
+foswiki.topic= "DirectorioEmpleados";
+function timedCount()
+{
+    t=setTimeout("filtrar()",1000);
+}
+function buscarpersona()
+{
+      $('#titulo').html("Resultados de la Búsqueda");
+       stopCount();
+$('#tablaempleados').hide();
+$('#changingPage').hide();
+$('#totalempleados').hide();
+$('#loadingsearch').show();
+       if (!timer_is_on)
+       {
+          timer_is_on=1;
+          timedCount();
+       }
+}
+function stopCount()
+{
+   clearTimeout(t);
+   timer_is_on=0;
+}
+function nada (){
+ var a = 1+1;
+}
+function cargarorganizaciones (url, orgid) {
+     var organizacion =  url.replace("Registros/DirectorioOrganizaciones.", "");
+     organizacion =  organizacion.replace("Registros.DirectorioOrganizaciones.", "");
+     var orgurl = 'http://planet.choucairtesting.com/bin/view/Estructuras/TooltipQtipOrganizacion?skin=text;org=' + organizacion;
+           $('#'+orgid).qtip(
+             {    
+                   content: {      
+                          url: orgurl,
+                          method: 'get'
+                    },   
+                   position: {       
+                           corner: {
+                                   target: 'topMiddle',
+                                   tooltip: 'bottomMiddle'
+                            }
+                   },
+                   style: {
+                           name: 'light',
+                           border: {
+                                      width: 2,
+                                      radius: 8
+                           },
+                           width: { min: 200, max: 500},
+                           tip: 'bottomMiddle'     
+                    },
+                   show: {
+                        solo: true,
+                        when: { event: 'click' }
+                   },
+                   hide: {
+                        when: { event: 'unfocus' }
+                    }
+         });
+}
+function filtrar() {
+       var num = 0;
+       var json = empleados;
+       filtered = 1;
+       alpha = '';
+       page = 0;
+       searchresult = [{}];
+       //if($('#nombre').val() == '' &amp;&amp;  $('#apellidos').val() == '' &amp;&amp; $('#cliente').val() == ''){
+       //   alphachange('A');
+        //  return;         
+       //}
+       buscarContactoExterno('');
+}
+function alphachange(letra) {
+            var json = empleados;
+            var num = 0;
+            filtered = 1;
+            alpha = letra;
+            page = 0;
+$('#tablaempleados').hide();
+$('#changingPage').hide();
+$('#totalempleados').hide();
+$('#loadingsearch').show();
+            if(alpha == "(.*)"){
+                 $('#titulo').html("TODOS");
+            }else{
+                 $('#titulo').html(alpha);
+            }            
+            $('#nombre').val('');
+            $('#apellidos').val('');
+            $('#cliente').val('');
+            buscarContactoExterno(alpha);
+}
+function paging (){
+         var rows = [{}];
+         var num = 0;
+          buscarContactoExterno('');      
+}
+function changepagesview (){
+   $('#tablaempleados').hide();
+   $("#totalempleados").hide();
+   $("#loadingsearch").hide();
+   $('#changingPage').show();
+}
+function pagenext (){
+   changepagesview();
+   page += 1;
+   if(page &gt;= 1 &amp;&amp; page &lt; pagemax){
+        $(".pagepre").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_back.gif" onclick="javascript: pagepre();"/&gt;'); 
+       var viewresult;
+       var ini = page * maxrows;
+       viewresult = (ini + 1) + '-' + (ini + maxrows);
+       $("#viewresult").html(" (" + viewresult + ")");
+   }
+   if (page == pagemax){
+        $(".pagenext").html("");
+        $(".pagepre").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_back.gif" onclick="javascript: pagepre();"/&gt;'); 
+       page = pagemax;
+       var viewresult;
+       var ini = page * maxrows;
+       viewresult = (ini + 1) + '-' + searchtotal;       
+       $("#viewresult").html(" (" + viewresult + ")");
+    }
+    paging();
+}
+function pagepre (){
+   page -= 1;
+   changepagesview();
+   if(page &lt;= 0 ){
+        $(".pagepre").html(""); 
+        $(".pagenext").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_forward.gif" onclick="javascript: pagenext();"/&gt;');
+       page = 0; 
+       var viewresult;
+       var ini = page * maxrows;
+       if (searchtotal &lt;= maxrows) {
+            viewresult = (ini + 1) + '-' + searchtotal;      
+       }else{
+            viewresult = (ini + 1) + '-' + (ini + maxrows);      
+       }
+       $("#viewresult").html(" (" + viewresult + ")");
+   }else {
+            //page -= 1;
+            $(".pagenext").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_forward.gif" onclick="javascript: pagenext();"/&gt;');
+       var viewresult;
+       if (page == 0){ 
+              viewresult = "1 - " + maxrows;
+       }else{
+             var ini = page * 15;
+             viewresult = (ini + 1) + '-' + (ini + maxrows);
+       }
+       $("#viewresult").html(" (" + viewresult + ")");
+    }
+       $("tbody#searchresult").html("");
+       $("#tablaempleados").hide();
+       $('.totales').show();
+    paging();
+}
+function rendertable(filas){
+      var json = filas;
+      var rows = "";
+      var num = 0;
+       for (var i = 0; i &lt; json.length; i++) {
+                              if(i &gt;= maxrows){
+                                   break;
+                              }
+                             if ( json[i].picture == 'choucairDefault'){
+                                  json[i].picture = 'http://planet.choucairtesting.com/pub/Estructuras/EstructuraDeEvento/evento-default.png';
+                             }else{
+                                  json[i].picture = 'http://planet.choucairtesting.com/pub/Main/' + json[i].topicname  + '/' +  json[i].picture;
+                             }
+                              if(i % 2 != 0 ){                       
+                                    $('tbody#searchresult').append("&lt;tr class='foswikiTableEven foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0'&gt;&lt;td valign='top' bgcolor='#ffffff'&gt;" + "&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;&lt;img src='" + json[i].picture + "' width='60px'/&gt;&lt;/a&gt;" + " &lt;/td&gt;&lt;td valign='center' bgcolor='#ffffff'&gt;" + "&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;" + json[i].nombre + "&lt;/a&gt;"  + '&lt;/td&gt;&lt;td valign="center" bgcolor="#ffffff"&gt;' + "&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;" + json[i].apellidos + "&lt;/a&gt;" + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#ffffff"&gt;&lt;a target="_blank" href="mailto:' + json[i].email + '"&gt;' + json[i].email + '&lt;/td&gt;'  + '&lt;td valign="center" bgcolor="#ffffff"&gt;' + json[i].cargo + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#ffffff"&gt;' + json[i].cliente + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#ffffff"&gt;' + json[i].ubicacion + '. ' + json[i].ciudad + ', ' + json[i].pais + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#ffffff"&gt;' +  json[i].telefono + '&lt;/td&gt;' + '&lt;/tr&gt;');
+                             cargarorganizaciones(json[i].orgurl, json[i].orgid);
+                             }else{
+                                  $('tbody#searchresult').append("&lt;tr class='foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1'&gt;&lt;td valign='top' bgcolor='#edf4f9'&gt;&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;&lt;img src='" + json[i].picture + "' width='60px'/&gt;&lt;/a&gt;&lt;/td&gt;&lt;td valign='center' bgcolor='#edf4f9'&gt;" + "&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;" + json[i].nombre + "&lt;/a&gt;"  + '&lt;/td&gt;&lt;td valign="center" bgcolor="#edf4f9"&gt;' + "&lt;a target='_blank' href='http://planet.choucairtesting.com/bin/view/" + json[i].url  + "' alt='" + json[i].nombre + " " + json[i].apellidos  + "'&gt;" + json[i].apellidos + "&lt;/a&gt;" + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#edf4f9"&gt;&lt;a target="_blank" href="mailto:' + json[i].email + '"&gt;' + json[i].email + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#edf4f9"&gt;' + json[i].cargo + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#edf4f9"&gt;' + json[i].cliente + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#edf4f9"&gt;' + json[i].ubicacion +  '. ' + json[i].ciudad + ', ' + json[i].pais + '&lt;/td&gt;' + '&lt;td valign="center" bgcolor="#edf4f9"&gt;' + json[i].telefono + '&lt;/td&gt;' + '&lt;/tr&gt;');
+                             cargarorganizaciones(json[i].orgurl, json[i].orgid);
+                             }           
+       }
+//       $('tbody#searchresult').html(rows);
+       if ( searchtotal &lt;= 0){
+            $("#totalempleados").html("Se encontraron 0 empleados.");
+            $('#changingPage').hide();
+            $('#loadingsearch').hide();
+            $('#tablaempleados').hide();
+            $('#totalempleados').show();
+       }else{
+           $(".totalempleados2").html("Se encontraron " + searchtotal + " empleados.");
+           $('#changingPage').hide();
+           $('#totalempleados').hide();
+           $('#loadingsearch').hide();
+           $('#tablaempleados').show();
+          var viewresult;
+          if (page == 0 &amp;&amp; pagemax == 0){ 
+                $(".pagepre").html(''); 
+                $(".pagenext").html('');
+                viewresult = "1 - " + searchtotal;
+           }else if(page == 0 &amp;&amp; pagemax &gt;= 1){
+               $(".pagepre").html(''); 
+               $(".pagenext").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_forward.gif" onclick="javascript: pagenext();"/&gt;');
+               viewresult = "1 - 15";
+          }else if (page &gt;= 1 &amp;&amp; page &lt; pagemax){
+              $(".pagenext").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_forward.gif" onclick="javascript: pagenext();"/&gt;');
+              $(".pagepre").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_back.gif" onclick="javascript: pagepre();"/&gt;'); 
+               var ini = page * 15;
+               viewresult = (ini + 1) + '-' + (ini + 15);
+       }else if(page &gt;= 1 &amp;&amp; page == pagemax){
+              $(".pagenext").html('');
+              $(".pagepre").html('&lt;img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/go_back.gif" onclick="javascript: pagepre();"/&gt;'); 
+              var ini = page * 15;
+              viewresult = (ini + 1) + '-' + searchtotal;
+       }
+       $("#viewresult").html(" (" + viewresult + ")");   
+    }
+}
+
+function cargarorganizaciones (url, orgid) {
+     var organizacion =  url.replace("Registros/DirectorioOrganizaciones.", "");
+     organizacion =  organizacion.replace("Registros.DirectorioOrganizaciones.", "");
+     var orgurl = 'http://planet.choucairtesting.com/bin/view/Estructuras/TooltipQtipOrganizacion?skin=text;org=' + organizacion;
+           $('#'+orgid).qtip(
+             {    
+                   content: {      
+                          url: orgurl,
+                          method: 'get'
+                    },   
+                   position: {       
+                           corner: {
+                                   target: 'topMiddle',
+                                   tooltip: 'bottomMiddle'
+                            }
+                   },
+                   style: {
+                           name: 'light',
+                           border: {
+                                      width: 2,
+                                      radius: 8
+                           },
+                           width: { min: 200, max: 500},
+                           tip: 'bottomMiddle'     
+                    },
+                   show: {
+                        solo: true,
+                        when: { event: 'click' }
+                   },
+                   hide: {
+                        when: { event: 'unfocus' }
+                    }
+         });
+}
+function buscarContactoExterno (nada) {
+    var searchname = '';
+    var searchlastname = '';
+    var searchorganization = '';
+    var searchcargo = '';
+    var searchalpha = '';
+    var searchpais = '';
+    var searchciudad = '';
+    var numpage = 0;
+    var cleanStringregExp = RegExp('[^a-zA-z0-9/\._]','igm');
+    if($('#pais').val() == ''){
+         searchpais = '(.*)';
+    }else{
+         searchpais = $('#pais').val();
+         searchpais = searchpais.replace(cleanStringregExp, '.');
+   }
+    if($('#ciudad').val() == '' || $('#ciudad').val() == null){
+         searchciudad = '(.*)';
+
+    }else{
+         searchciudad = $('#ciudad').val();
+         searchciudad = searchciudad.replace(cleanStringregExp, '.');
+   }
+    if($('#nombre').val() == ''){
+         searchname = '(.*)';
+    }else{
+         searchname = $('#nombre').val();
+         searchname = searchname.replace(cleanStringregExp, '.');
+   }
+    if($('#apellidos').val() == ''){
+         searchlastname = '(.*)';
+    }else{
+         searchlastname = $('#apellidos').val();
+         searchlastname = searchlastname.replace(cleanStringregExp, '.');
+   }
+    if($('#cargo').val() == ''){
+         searchcargo = '(.*)';
+    }else{
+         searchcargo = $('#cargo').val();
+   }
+    if($('#cliente').val() == ''){
+         searchorganization = '(.*)';
+    }else{
+         searchorganization = $('#cliente').val();
+   }
+    if(alpha == ''){
+         searchalpha = '';
+    }else{
+         searchalpha = alpha;
+   }
+   $("tbody#searchresult").html("");
+   $("#tablaempleados").hide();
+   $("#tablaempleados1").hide();
+   $('.totales').show();
+    if (page == 0 ) {
+      $.ajax({
+          async: true,
+          cache: true,
+          url: "/bin/view/Estructuras/BusquedaCantidadDeEmpleadosJSON",
+          type: 'get', 
+          data: {skin: 'text', nombre: searchname, apellidos: searchlastname, organizacion: searchorganization, inicial: searchalpha, cargo: searchcargo, ciudad: searchciudad, pais: searchpais},
+          dataType: "json",
+          success: function (json) {                     
+                 searchtotal  = json.total;
+                 numpage = 0;
+                 page = 0;
+                 pagemax = Math.ceil(searchtotal/maxrows) - 1;
+                 $.ajax({
+                   async: true,
+                   cache: true,
+                   url: "/bin/view/Estructuras/BusquedaDeEmpleadosJSON",
+                   type: 'get', 
+                   data: {skin: 'text', nombre: searchname, apellidos: searchlastname, organizacion: searchorganization, inicial: searchalpha, cargo: searchcargo, limit: maxrows, ciudad: searchciudad, pais: searchpais, skip: numpage},
+                   dataType: "json",
+                   success: function (json) {                     
+                          empleados = json;
+                          rendertable(json);             
+                   },
+                   error: function (json){     
+                           $('#loading').html("Error al cargar los contactos...");   
+                   }
+                });     
+          },
+          error: function (json){     
+                  $('#loading').html("Error al cargar los contactos...");   
+          }
+       }); 
+    }else{
+       numpage = page * maxrows;
+       $.ajax({
+             async: true,
+             cache: true,
+             url: "/bin/view/Estructuras/BusquedaDeEmpleadosJSON",
+             type: 'get', 
+             data: {skin: 'text', nombre: searchname, apellidos: searchlastname, organizacion: searchorganization, inicial: searchalpha, cargo: searchcargo, limit: maxrows, ciudad: searchciudad, pais: searchpais, skip: numpage},
+             dataType: "json",
+             success: function (json) {                     
+                    empleados = json;
+                    rendertable(json);             
+             },
+             error: function (json){     
+                     $('#loading').html("Error al cargar los contactos...");   
+             }
+       });     
+    }   
+}
+$(document).ready(function () {
+     var json = [{}];
+     $('#nombre').val('');
+     $('#apellidos').val('');
+     $('#cliente').val('');
+     $('.totales').hide();
+     $('#loadingsearch').hide();
+     $('.totales').html("&lt;img src='http://planet.choucairtesting.com/pub/System/DocumentGraphics/processing.gif' style='margin-left: auto;margin-rigth: auto'/&gt;");
+     $("#tablaempleados").hide();
+     setUrlState();
+       $('select#cliente').html("&lt;option value=''&gt;Cargando listado de organizaciones...&lt;/option&gt;");   
+       $.ajax({
+             async: true,
+             cache: true,
+             url: "/bin/view/Estructuras/BusquedaDeOrganizacionesJSON",
+             type: 'get', 
+             data: {skin: 'text', tipo: 'Cliente', nombre: '(.*)', inicial: '(.*)', ciudad: '(.*)', pais: '(.*)'},
+             dataType: "json",
+             success: function (json) {                     
+                          var options = '&lt;option value=""&gt;&lt;/option&gt;';
+                          for(var i=0; i &lt; json.length; i++){
+                                  options += '&lt;option value="' + json[i].url + '"&gt;' + json[i].nombre + '&lt;/option&gt;';
+                          }
+                          $('select#cliente').html(options);    
+             },
+             error: function (json){     
+                      $('select#cliente').html("&lt;option value=''&gt;Error al cargar las organizaciones...&lt;/option&gt;");   
+             }
+       });   
+
+      $('#loading').html("");
+});
+function setUrlState(){
+      if('' == '(.*)'){
+            return;
+      }
+      if(foswiki.isFirstTimeCiudad == 1){
+         var paises =  $('#pais option');
+         for(var i = 0; i &lt; paises.length;i++){
+              if (paises[i].value.search('') == 0){
+                 $('#pais').val(paises[i].value);
+              }
+         }
+         setStates();
+         if('' == '(.*)'){
+            return;
+         }
+         var ciudades = $('#ciudad option');
+         for(var i = 0; i &lt; ciudades.length;i++){
+              if (ciudades[i].value.search('') == 0){
+                 $('#ciudad').val(ciudades[i].value);
+              }
+         }
+         foswiki.isFirstTimeCiudad = 0;
+         buscar();
+      }
+}
+</script>
+</p><p>
+</p><h1><a name="Empleados_Choucair"></a> <span class="ecpHeading"><a name="chapter_estructuras_directorioempleados_1"></a>  Empleados Choucair <a class="ecpEdit" href="http://planet.choucairtesting.com/bin/edit/Estructuras/DirectorioEmpleados?nowysiwyg=on;cover=chapter;to=1;from=1;redirectto=http://planet.choucairtesting.com/bin/view/Empleados/DirectorioEmpleados%23chapter_estructuras_directorioempleados_1;t=1519161897" title="Edit this chapter"><img src="/pub/System/EditChapterPlugin/pencil.png" height="16" width="16" border="0" /></a></span> </h1>
+<p>
+</p><div class="foswikiHelp">
+<h3><a name="Buscar"></a> Buscar </h3>
+<a href="javascript: alphachange('A')">A</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('B')">B</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('C')">C</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('D')">D</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('E')">E</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('F')">F</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('G')">G</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('H')">H</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('I')">I</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('J')">J</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('K')">K</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('L')">L</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('M')">M</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('N')">N</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('O')">O</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('P')">P</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('Q')">Q</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('R')">R</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('S')">S</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('T')">T</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('U')">U</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('V')">V</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('W')">W</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('X')">X</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('Y')">Y</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('Z')">Z</a><span class="foswikiSeparator"> | </span><a href="javascript: alphachange('(.*)')">TODOS</a>
+<table>
+ <tbody><tr>
+    <th>
+        <table><tbody><tr><th valign="top" align="left"><b>Nombre:</b></th></tr>
+          <tr><td valign="top" align="left"><input type="text" name="nombre" id="nombre" /></td></tr>
+        </tbody></table>
+    </th>
+    <th>
+         <table><tbody><tr><th valign="top" align="left"><b>Cargo:</b></th></tr>
+         <tr><td valign="top" align="left"><select name="cargo" id="cargo"><option value=""></option><option value="Registros.Cargos.AdministradorDePais">Administrador de país</option> <option value="Registros.Cargos.AnalistaAdministrativo">Analista administrativo</option> <option value="Registros.Cargos.AnalistaAdministrativoYFinanciero">Analista Administrativo y Financiero</option> <option value="Registros.Cargos.AnalistaCreativo">Analista Creativo</option> <option value="Registros.Cargos.AnalistaDeCapacidadOperativa">Analista de Capacidad Operativa</option> <option value="Registros.Cargos.AnalistaDeComunicacionDigitalYAudiovisual">Analista de Comunicación Digital y Audiovisual</option> <option value="Registros.Cargos.AnalistaDeContratacion">Analista de contratación</option> <option value="Registros.Cargos.AnalistaDeCursosDeExtension">Analista De Cursos De Extensión</option> <option value="Registros.Cargos.AnalistaDeDesarrolloYBienestar">Analista de Desarrollo y Bienestar</option> <option value="Registros.Cargos.AnalistaDeEntrenamiento">Analista de Entrenamiento</option> <option value="Registros.Cargos.AnalistaDeGestionDelConocimiento">Analista de Gestion del Conocimiento</option> <option value="Registros.Cargos.AnalistaDeGestionHumana">Analista de Gestion Humana</option> <option value="Registros.Cargos.AnalistaDeIngenieriaDeProcesosYControlInterno">Analista de proyectos corporativos y cumplimiento</option> <option value="Registros.Cargos.AnalistaDeInnovacion">Analista de Innovación</option> <option value="Registros.Cargos.AnalistaDeMercadeoCorporativo">Analista de Mercadeo Corporativo</option> <option value="Registros.Cargos.AnalistaDeMercadeoEstrategico">Analista de Mercadeo Estratégico</option> <option value="Registros.Cargos.AnalistaDeNegociosInternacionales">Analista de Negocios Internacionales</option> <option value="Registros.Cargos.AnalistaDeNomina">Analista de Nomina</option> <option value="Registros.Cargos.AnalistaDePlaneacionYDesarrollo">Analista de Planeación y Desarrollo</option> <option value="Registros.Cargos.AnalistaDePruebas">Analista de Pruebas</option> <option value="Registros.Cargos.AnalistaDePruebasContables">Analista de Pruebas Contables</option> <option value="Registros.Cargos.AnalistaDePruebasDePerformance">Analista de Pruebas de Performance</option> <option value="Registros.Cargos.AnalistaDePruebasDeSeguridad">Analista de Pruebas de Seguridad</option> <option value="Registros.Cargos.AnalistaDePruebasDeUsabilidad">Analista de pruebas de usabilidad</option> <option value="Registros.Cargos.AnalistaDePruebasMoviles">Analista de Pruebas Moviles</option> <option value="Registros.Cargos.AnalistaDeSeguridadTI">Analista de Seguridad TI</option> <option value="Registros.Cargos.AnalistaDeSeguridadYSaludEnElTrabajo">Analista de Seguridad y Salud en el Trabajo.</option> <option value="Registros.Cargos.AnalistaDeSeleccionYContratacion">Analista de Selección y Contratación</option> <option value="Registros.Cargos.AnalistaDeSolucionesTI">Analista Soluciones TI</option> <option value="Registros.Cargos.AnalistaFinanciero">Analista financiero</option> <option value="Registros.Cargos.AnalistaInvestigacionDesarrolloEinnovacion">Analista de Investigación, Desarrollo e Innovación</option> <option value="Registros.Cargos.AnalistaMesaDeServicioTI">Analista Mesa de Servicio TI</option> <option value="Registros.Cargos.AnalistaOperacionesEinfraestructuraTI">Analista Operaciones e Infraestructura TI</option> <option value="Registros.Cargos.AprenDiz">Aprendíz</option> <option value="Registros.Cargos.ArquitectoDeAutomatizacion">Arquitecto de Automatización</option> <option value="Registros.Cargos.ArquitectoDeServicios">Arquitecto de servicios</option> <option value="Registros.Cargos.AutomaTizador">Automatizador</option> <option value="Registros.Cargos.AuxiliarAdministrativo">Auxiliar Administrativo</option> <option value="Registros.Cargos.AuxiliarContable">Auxiliar Contable</option> <option value="Registros.Cargos.AuxiliarDeAutomatizacion">Auxiliar de Automatización</option> <option value="Registros.Cargos.AuxiliarDeCapacidadOperativa">Auxiliar de Capacidad Operativa</option> <option value="Registros.Cargos.AuxiliarDeComunicacionAudiovisual">Auxiliar de Comunicación Audiovisual</option> <option value="Registros.Cargos.AuxiliarDeComunicaciones">Auxiliar de comunicaciones</option> <option value="Registros.Cargos.AuxiliarDeCursosDeExtension">Auxiliar De Cursos De Extensión</option> <option value="Registros.Cargos.AuxiliarDeGestionHumana">Auxiliar de Gestión Humana</option> <option value="Registros.Cargos.AuxiliarDeIngenieriaDeProcesosYControlInterno">Auxiliar de Ingeniería de Procesos y Control Interno</option> <option value="Registros.Cargos.AuxiliarDeOperaciones">Auxiliar de operaciones</option> <option value="Registros.Cargos.AuxiliarDeSeguridadYMesaDeTI">Auxiliar de seguridad y mesa de TI</option> <option value="Registros.Cargos.AuxiliarDeSeleccion">Auxiliar de Selección</option> <option value="Registros.Cargos.AuxiliarNomina">Auxiliar Nomina</option> <option value="Registros.Cargos.AuxiliarTI">Auxiliar TI</option> <option value="Registros.Cargos.DirectorComercial">Director Comercial</option> <option value="Registros.Cargos.DirectorEjecutivoCEO">Director Ejecutivo (CEO)</option> <option value="Registros.Cargos.DirectorOperaciones">Director Operaciones</option> <option value="Registros.Cargos.EjecutorDePruebas">Ejecutor</option> <option value="Registros.Cargos.EspecialistaDeProducto">Especialista de Producto</option> <option value="Registros.Cargos.EspecialistaFuncionalDelSector">Especialista Funcional del Sector</option> <option value="Registros.Cargos.GerenteAdministrativoYFinanciero">Gerente  Administrativo y Financiero</option> <option value="Registros.Cargos.GerenteComercial">Gerente Comercial</option> <option value="Registros.Cargos.GerenteDeCuenta">Gerente de cuenta</option> <option value="Registros.Cargos.GerenteDeDesarrolloOrganizacional">Gerente de Desarrollo Organizacional</option> <option value="Registros.Cargos.GerenteDeNegociosInternacionales">Gerente de Negocios Internacionales</option> <option value="Registros.Cargos.GerenteDelServicio">Gerente del servicio</option> <option value="Registros.Cargos.GerenteDesarrolloCorporativo">Gerente de Desarrollo Corporativo</option> <option value="Registros.Cargos.GerenteUEN">Gerente UEN</option> <option value="Registros.Cargos.IngenieroPreventa">Ingeniero Preventa</option> <option value="Registros.Cargos.LiderAdministrativo">Líder Administrativo</option> <option value="Registros.Cargos.LiderDeCapacidadOperativa">Líder de Capacidad Operativa </option> <option value="Registros.Cargos.LiderDeGestionDelConocimiento">Líder de Gestión del Conocimiento</option> <option value="Registros.Cargos.LiderDeInvestigacionDesarrolloEInnovacionCorporativo">Líder de Investigación Desarrollo e Innovación Corporativo</option> <option value="Registros.Cargos.LiderDeMercadeoYRelacionesCorporativas">Líder de mercadeo y relaciones corporativas</option> <option value="Registros.Cargos.LiderDeMigracionesYFusiones">Líder de Migraciones y Fusiones</option> <option value="Registros.Cargos.LiderDeOperaciones">Líder de Operaciones</option> <option value="Registros.Cargos.LiderDeProyectosCorporativosYCumplimiento">Líder de proyectos corporativos y cumplimiento</option> <option value="Registros.Cargos.LiderDeTecnologiaeInfraestructura">Lider de tecnologia e Infraestructura</option> <option value="Registros.Cargos.LiderFinanciera">Líder financiera</option> <option value="Registros.Cargos.LiderNomina">Líder nómina</option> <option value="Registros.Cargos.LiderSAP">Líder SAP</option> <option value="Registros.Cargos.LiderTecnico">Líder Técnico</option> <option value="Registros.Cargos.OficiosVarios">Oficios Varios</option>
+</select></td></tr>
+         </tbody></table>
+    </th>
+  </tr>
+  <tr>
+      <th>
+        <table><tbody><tr><th valign="top" align="left"><b>Apellidos:</b></th></tr>
+        <tr><td valign="top" align="left"><input type="text" name="apellidos" id="apellidos" /></td></tr>
+        </tbody></table>
+      </th>
+      <th>
+          <table><tbody><tr><th valign="top" align="left"><b>Cliente:</b></th></tr>
+          <tr><td valign="top" align="left" width="800px"><select name="cliente" id="cliente"><option value=""></option><option value="Registros.DirectorioOrganizaciones.OrgATHSA">ATH S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgAtlanticSecurityBank">Atlantic Security Bank</option><option value="Registros.DirectorioOrganizaciones.OrgAvantel">Avantel</option><option value="Registros.DirectorioOrganizaciones.OrgBANCODECOMERCIOSA">BANCO DE COMERCIO S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgBTGPactual">BTG Pactual</option><option value="Registros.DirectorioOrganizaciones.OrgBancoCajaSocial">Banco Caja Social</option><option value="Registros.DirectorioOrganizaciones.OrgBancoCencosudSA">Banco Cencosud S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgBancoColpatriaRedMultibancaColpatriaSA">Banco Colpatria-Red Multibanca Colpatria S.A</option><option value="Registros.DirectorioOrganizaciones.OrgBancoFalabella">Banco Falabella S.A</option><option value="Registros.DirectorioOrganizaciones.OrgBancoGanaderoSA">Banco Ganadero S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgBancoGeneral">Banco General</option><option value="Registros.DirectorioOrganizaciones.OrgBancoPopularSA">Banco Popular S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgBancoDeLaRepublica">Banco de la República</option><option value="Registros.DirectorioOrganizaciones.OrgBancolombia">Bancolombia</option><option value="Registros.DirectorioOrganizaciones.OrgBolsaMercantilDeColombia">Bolsa Mercantil de Colombia</option><option value="Registros.DirectorioOrganizaciones.OrgCASAEDITORIALELTIEMPOSA">CASA EDITORIAL EL TIEMPO S. A.</option><option value="Registros.DirectorioOrganizaciones.OrgCajaDeCompensacionFamiliarCompensar">Caja de Compensación Familiar Compensar</option><option value="Registros.DirectorioOrganizaciones.OrgCarvajalServinte">Carvajal - (Servinte)</option><option value="Registros.DirectorioOrganizaciones.OrgCarvajalTecnologiaYServiciosSASASSENDABogota">Carvajal Tecnologia y Servicios S.A.S (ASSENDA) - Bogotá</option><option value="Registros.DirectorioOrganizaciones.OrgChoucairTestingSA">Choucair Testing S.A</option><option value="Registros.DirectorioOrganizaciones.OrgClaroSA">Claro</option><option value="Registros.DirectorioOrganizaciones.OrgColmenaSegurosARL">Colmena Seguros-ARL</option><option value="Registros.DirectorioOrganizaciones.OrgColsanitas">Colsanitas</option><option value="Registros.DirectorioOrganizaciones.OrgColtabacoSA">Coltabaco S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgCorficolombiana">Corficolombiana</option><option value="Registros.DirectorioOrganizaciones.OrgDavivienda">Davivienda</option><option value="Registros.DirectorioOrganizaciones.OrgDaviviendaPanama">Davivienda Panamá</option><option value="Registros.DirectorioOrganizaciones.OrgDirecTV">DirecTV</option><option value="Registros.DirectorioOrganizaciones.OrgFactoringBancolombia">Factoring Bancolombia</option><option value="Registros.DirectorioOrganizaciones.OrgFinancieraDannRegional">Financiera Dann Regional</option><option value="Registros.DirectorioOrganizaciones.OrgGrupoArgosSA">Grupo Argos S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgInterbank">Interbank</option><option value="Registros.DirectorioOrganizaciones.OrgLeasingBancolombia">Leasing Bancolombia</option><option value="Registros.DirectorioOrganizaciones.OrgMIBANCO">MIBANCO</option><option value="Registros.DirectorioOrganizaciones.OrgMinisterioDeTransportesYComunicaciones">Ministerio de transportes y comunicaciones</option><option value="Registros.DirectorioOrganizaciones.OrgPorvenirSA">Porvenir S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgProteccion">Protección S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgPublicar">Publicar </option><option value="Registros.DirectorioOrganizaciones.OrgQuipuxSA">Quipux S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgRentingColombiaSA">Renting Colombia S.A.</option><option value="Registros.DirectorioOrganizaciones.OrgSTAConsulting">STA Consulting</option><option value="Registros.DirectorioOrganizaciones.OrgSabMillerBavariaSA">SabMiller (Bavaria S.A.)</option><option value="Registros.DirectorioOrganizaciones.OrgTRANSPORTADORACOMERCIALCOLOMBIALTDATCC">TRANSPORTADORA COMERCIAL COLOMBIA LTDA (T.C.C)</option><option value="Registros.DirectorioOrganizaciones.OrgTuyaSA">Tuya S.A</option><option value="Registros.DirectorioOrganizaciones.OrgVisionSoftwareSABizAgi">Vision Software S.A. (BizAgi)</option></select></td></tr>
+          </tbody></table>
+      </th>
+  </tr>
+  <tr>
+      <th>
+        <table><tbody><tr><th valign="top" align="left"><b>Pais:</b></th></tr>
+        <tr><td valign="top" align="left"><select onchange="setStates();" id="pais" name="Pais"><option value=""></option><option value="Alemania">Alemania</option><option value="Argentina">Argentina</option><option value="Belgica">Belgica</option><option value="Bolivia">Bolivia</option><option value="Brasil">Brasil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="Colombia">Colombia</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Ecuador">Ecuador</option><option value="El Salvador">El Salvador</option><option value="Escocia">Escocia</option><option value="Eslovaquia">Eslovaquia</option><option value="España">España</option><option value="Estados Unidos">Estados Unidos</option><option value="Inglaterra">Inglaterra</option><option value="Israel">Israel</option><option value="Korea">Korea</option><option value="Mexico">Mexico</option><option value="Panamá">Panamá</option><option value="Peru">Peru</option><option value="Republica Dominicana">Republica Dominicana</option><option value="Uruguay">Uruguay</option><option value="Venezuela">Venezuela</option></select></td></tr>
+        </tbody></table>
+      </th>
+      <th>
+        <table><tbody><tr><th valign="top" align="left"><b>Ciudad:</b></th></tr>
+        <tr><td valign="top" align="left"><select onchange="setPrefix();" id="ciudad" name="Ciudad"><option value="" selected=""></option></select></td></tr>
+        </tbody></table>
+      </th>
+   </tr>
+<tr>
+<td>
+<img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/refreshtopic.gif" onclick="buscarpersona()" alt="Recargar búsqueda" /><a href="javascript:buscarpersona()"> Buscar</a>
+</td>
+</tr>
+</tbody></table>
+</div>
+<hr />
+<hr />
+<p>
+</p><h1 id="titulo">Resultados de la Búsqueda</h1>
+<div id="changingPage" style="display: none;">
+<span class="totalempleados2" style="float: left">Se encontraron 1 empleados.</span><br />
+<span id="loafingpage"><img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/processing.gif" style="margin-left: auto;margin-rigth: auto" /></span>
+</div>
+<div id="totalempleados1">
+<span id="totalempleados" style="display: none;"></span>
+<span class="loading" id="loadingsearch" style="display: none;"><img src="http://planet.choucairtesting.com/pub/System/DocumentGraphics/processing.gif" style="margin-left: auto;margin-rigth: auto" /></span>
+</div>
+<table id="tablaempleados" width="100%" style="display: table;">
+<tbody><tr>
+<td>
+<span class="totalempleados2" style="float: left">Se encontraron 1 empleados.</span>  <div style="float: right"><span id="viewresult"> (1 - 1)</span> <span class="pagepre"></span><span class="foswikiSeparator"> | </span><span class="pagenext"></span></div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="resultados" style="font-size: 0.9em;">
+<table rules="rows" cellspacing="0" cellpadding="0" border="1" class="foswikiTable" width="100%">
+<thead>
+<tr class="foswikiTableOdd foswikiTableRowdataBgSorted0 foswikiTableRowdataBg0">
+<th valign="top" bgcolor="#687684" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff"></font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Nombre</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol0 foswikiFirstCol"> <font color="#ffffff">Apellidos</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol1"> <font color="#ffffff">Email</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol2 foswikiLastCol"><font color="#ffffff">Cargo</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol2 foswikiLastCol"> <font color="#ffffff">Cliente</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol2 foswikiLastCol"> <font color="#ffffff">Ubicación</font> </th>
+<th valign="top" bgcolor="#687684" class="foswikiTableCol2 foswikiLastCol"><font color="#ffffff">Teléfono</font> </th>
+</tr>
+</thead>
+<tbody id="searchresult"><tr class="foswikiTableOdd foswikiTableRowdataBgSorted1 foswikiTableRowdataBg1"><td valign="top" bgcolor="#edf4f9"><a target="_blank" href="http://planet.choucairtesting.com/bin/view/Main.JohnFredyClavijoParra" alt="John Fredy Clavijo Parra"><img src="http://planet.choucairtesting.com/pub/Main/JohnFredyClavijoParra/Jhon.jpg" width="60px" /></a></td><td valign="center" bgcolor="#edf4f9"><a target="_blank" href="http://planet.choucairtesting.com/bin/view/Main.JohnFredyClavijoParra" alt="John Fredy Clavijo Parra">John Fredy</a></td><td valign="center" bgcolor="#edf4f9"><a target="_blank" href="http://planet.choucairtesting.com/bin/view/Main.JohnFredyClavijoParra" alt="John Fredy Clavijo Parra">Clavijo Parra</a></td><td valign="center" bgcolor="#edf4f9"><a target="_blank" href="mailto:jclavijo@choucairtesting.com">jclavijo@choucairtesting.com</a></td><td valign="center" bgcolor="#edf4f9"><a href="http://planet.choucairtesting.com/bin/view/Registros.Cargos.AnalistaDePruebas"><literal>Analista de Pruebas</literal></a></td><td valign="center" bgcolor="#edf4f9"><a name="" id="org1" href="javascript: nada()" class=""><literal></literal></a></td><td valign="center" bgcolor="#edf4f9">CEOH. Medellín, Colombia</td><td valign="center" bgcolor="#edf4f9">N/A</td></tr></tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="float: right"><span id="viewresult"></span> <span class="pagepre"></span><span class="foswikiSeparator"> | </span><span class="pagenext"></span></div>
+</td>
+</tr>
+</tbody></table> </div><!-- /foswikiTopic-->
+<div class="foswikiContentFooter"></div></div><!-- /patternContent-->
+<a name="topic-actions"></a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"><span class="foswikiRequiresChangePermission"><a href="http://planet.choucairtesting.com/bin/edit/Empleados/DirectorioEmpleados?t=1519161897" rel="nofollow" title="Editar texto de este tema" accesskey="e"><span class="foswikiAccessKey">E</span>ditar</a></span><span class="foswikiSeparator"> | </span><span class="foswikiRequiresChangePermission"><a href="/bin/attach/Empleados/DirectorioEmpleados" rel="nofollow" title="Adjuntar una imagen o documento a este tema" acceskey="a"><span class="foswikiAccessKey">A</span>djuntar</a></span><span class="foswikiSeparator"> | </span><span><a href="/bin/view/Empleados/DirectorioEmpleados?cover=print" rel="nofollow" title="Vista de impresión de este tema" accesskey="p">Vista de im<span class="foswikiAccessKey">p</span>resión</a></span><span class="foswikiSeparator"> | </span><span><a href="/bin/genpdf/Empleados/DirectorioEmpleados?" rel="nofollow" title="PDF version of this topic" accesskey="p"><span class="foswikiAccessKey">P</span>DF</a></span><span class="foswikiSeparator"> | </span><span><span class="foswikiRequiresChangePermission"><a href="/bin/oops/Empleados/DirectorioEmpleados?template=oopshistory" rel="nofollow" title="View historial completo del tema" accesskey="h"><span class="foswikiAccessKey">H</span>istorial</a></span>: r197 <a rel="nofollow" href="/bin/rdiff/Empleados/DirectorioEmpleados?rev1=197;rev2=196">&lt;</a> <a rel="nofollow" href="/bin/view/Empleados/DirectorioEmpleados?rev=196">r196</a> <a rel="nofollow" href="/bin/rdiff/Empleados/DirectorioEmpleados?rev1=196;rev2=195">&lt;</a> <a rel="nofollow" href="/bin/view/Empleados/DirectorioEmpleados?rev=195">r195</a> <a rel="nofollow" href="/bin/rdiff/Empleados/DirectorioEmpleados?rev1=195;rev2=194">&lt;</a> <a rel="nofollow" href="/bin/view/Empleados/DirectorioEmpleados?rev=194">r194</a> <a rel="nofollow" href="/bin/rdiff/Empleados/DirectorioEmpleados?rev1=194;rev2=193">&lt;</a> <a rel="nofollow" href="/bin/view/Empleados/DirectorioEmpleados?rev=193">r193</a></span><span class="foswikiSeparator"> | </span><span><a href="/bin/oops/Empleados/DirectorioEmpleados?template=backlinksweb" rel="nofollow" title="Buscar la web Empleados por temas que estén enlazados aquí" accesskey="b">Enlaces entrantes (<span class="foswikiAccessKey">b</span>)</a></span><span class="foswikiSeparator"> | </span><span><a href="/bin/view/Empleados/DirectorioEmpleados?raw=on" rel="nofollow" title="View código sin formato" accesskey="r">Ve<span class="foswikiAccessKey">r</span> código</a></span><span class="foswikiSeparator"> | </span><span class="foswikiRequiresChangePermission"><a href="http://planet.choucairtesting.com/bin/edit/Empleados/DirectorioEmpleados?t=1519161897;nowysiwyg=1" rel="nofollow" title="Editar código de este tema" accesskey="w">Editar código (<span class="foswikiAccessKey">w</span>)</a></span><span class="foswikiSeparator"> | </span><span><a href="/bin/oops/Empleados/DirectorioEmpleados?template=oopsmore&amp;param1=197&amp;param2=197" rel="nofollow" title="Borrar o renombrar este tema; establecer tema padre; ver y comparar revisiones" accesskey="m"><span class="foswikiAccessKey">M</span>ás acciones de tema</a></span><span class="foswikiSeparator"> | </span><span class="foswikiSeparator"> | </span><span class="foswikiSeparator"> | </span><span><a href="/bin/view/Empleados/DirectorioEmpleados?#patternMain" rel="nofollow" title="Volver arriba"><span class="foswikiAccessKey">V</span>olver arriba</a></span></span></div><!--/patternTopicAction--></div><!--/patternTopicActions--><div class="patternInfo foswikiGrayText"><div class="patternRevInfo">Revisión del tema: r197 - 2015/01/05 - 15:22:39 - <a href="/bin/view/Main/AdminUser" title="ProjectContributor - 2009/01/09 - 07:00 - r1.1: Wiki Administrator User The AdminUser allows you to login without needing to register a user, or to temporarily login as AdminUser using the password set in configure ...">AdminUser</a></div><!-- /patternRevInfo--><div class="patternMoved"></div><!-- /patternMoved--></div><!-- /patternInfo-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternSideBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternSideBarContents">
+<p>
+<style>
+.menuLevel1 {font-weight: bold;}
+</style>
+</p><center><a href="/bin/view/Main/WebHome" title="jctrujillo - 2016/01/26 - 10:13 - r1.313: "><img border="0" src="/pub/Estructuras/WebLeftBarCairo/cairologo.jpg" title="Enlarge" alt="Enlarge" /></a></center>
+<hr />
+<form action="http://planet.choucairtesting.com/bin/view/Empleados/WebSearch" method="GET">
+<input type="submit" value="Buscar»" />
+</form>
+<hr />
+<div class="patternLeftBarPersonal">
+Bienvenido<br /> <a href="/bin/view/Main/RodrigoAndresAlvarezMaya" title="jsalas - 2015/07/24 - 19:19 - r1.4: Set ALLOWTOPICCHANGE GestionDeUsuariosGroup FirstName: Rodrigo Andres LastName: Alvarez Maya">Rodrigo Andres Alvarez Maya</a><br /> <ul><li class="patternLogOut"><a href="http://planet.choucairtesting.com/bin/view/Main/WebHome?logout=1">Logout</a></li></ul>
+</div>
+<hr />
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:block;" href="/bin/view/Main/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Home</a></span><br />
+<span style="white-space:nowrap;margin:0; padding: 0;" class="menuLevel1"><a style="text-decoration:none;" href="javascript: toggleAreas();"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Info Área</a></span><br />
+<div id="sub_areas" style="display: block;margin: 0;padding:0;">
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/TalentoHumano/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Talento Humano</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/GestionDelConocimiento/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Gestión del Conocimiento</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/Mercadeo/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Mercadeo</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/PremiosReconocimientosYCertificaciones/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Premios, reconocimientos <br />      y certificaciones</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/GestionAdministrativa/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Gestion Administrativa</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://planet.choucairtesting.com/Metodologia/DocumentacionPublica/ServiciosInternos" target="”_blank”"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Servicios Internos</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/DocumentosDeInteres/"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Documentos de Interés</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/Metodologia/PlantillasGenerales/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Plantillas Generales</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/DocumentosDeInteres/TablaLineasDeEmergencia"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Líneas de Emergencia  <img src="/pub/Estructuras/WebLeftBarCairo/Cross.png" alt="Cross.png" width="12" style="margin-bottom: 3px;" /></a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="mailto:lineaetica@choucairtesting.com"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Línea ética</a></span><br /> 
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/InformacionGerencial/TiposInformes/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Informacion Gerencial</a></span><br />
+<p>
+</p><p>
+</p></div>
+<span style="white-space:nowrap;margin:0; padding: 0;" class="menuLevel1"><a style="text-decoration:none;" href="javascript: toggleMetodos();"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Metodología</a></span><br />
+<div id="sub_metodos" style="display: block;margin: 0;padding:0;">
+<span style="white-space:nowrap;margin: 0 0 0 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/Metodologia/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Procesos Choucair</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://planet.choucairtesting.com/pub/Metodologia/PrestacionDelServicio/Testing/PruebasEnUnaPagina/pruebasenunapagina.html" target="”_blank”"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Pruebas en una Página</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/Metodologia/DocumentacionPublica/ToolboxCH"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> ToolBox</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view/Empleados/BibliotecaChoucair"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Biblioteca</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="/bin/view//Metodologia/TerminologiaComercial/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Terminología Comercial</a></span><br />
+</div>
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="javascript: toggleOperaciones();"><img src="http://planet.choucairtesting.com/pub/Main/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Operaciones</a></span><br />
+<div id="sub_operaciones" style="display: none;">
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://www.choucairtesting.com/census" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Census</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://www.choucairtesting.com/reportescensus" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Reportes census</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://planet.choucairtesting.com/Metodologia/PrestacionDelServicio/Testing/MaxTime/WebHome" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Max Time</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="https://corporativo.choucairtesting.com/mesadeayuda/" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Somos TI</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://choucairtesting.webex.com/" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Webex</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://mx1.choucairtesting.com/" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> E-mail</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://km.choucairtesting.com" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Plataforma de KM</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="http://silk.choucairtesting.com/login" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Silk Central</a></span><br />
+<span style="white-space:nowrap;margin-left: 10px;" class="menuLevel2"><a style="text-decoration:none;" href="https://www.choucairtesting.com/Atg/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?cn=com.atg.rhiniatg&amp;war=Atg" target="_blank"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-line.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Autogestión</a></span><br />
+<p>
+</p></div>
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="/bin/view/Empleados/CafeChoucair"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Café Choucair</a></span><br />
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="/bin/view/Empleados/EspirituChoucair"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Espíritu Choucair</a></span><br />
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="/bin/view/Empleados/Directorio"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/blue-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Encuéntrame</a></span><br /> 
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="/bin/view/WikiTips/WebHome"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> WikiTips<img src="/pub/Estructuras/WebLeftBarCairo/star.png" alt="star.png" width="12" style="margin-bottom: 3px;" /></a></span><br />
+<p>
+</p><p>
+<span style="white-space:nowrap;" class="menuLevel1"><a style="text-decoration:none;" href="/bin/view/Main/RodrigoAndresAlvarezMaya"><img src="http://planet.choucairtesting.com/pub/Estructuras/WebLeftBarCairo/black-dot.png" border="0" alt="" width="5" height="5" style="vertical-align: baseline;" /> Mi Perfil</a></span><br />
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+<script type="text/javascript">
+function toggleOperaciones (){
+   if ($('#sub_operaciones').css('display') == "none"){
+       $('#sub_operaciones').css('display', 'block');
+   }else{
+       $('#sub_operaciones').css('display', 'none');
+   }
+}
+function toggleMetodos (){
+   if ($('#sub_metodos').css('display') == "none"){
+       $('#sub_metodos').css('display', 'block');
+       $('#metodos_bluedot').css('display','inline');
+       $('#metodos_blackdot').css('display', 'none');
+   }else{
+       $('#sub_metodos').css('display', 'none');
+       $('#metodos_blackdot').css('display', 'inline');
+       $('#metodos_bluedot').css('display','none');
+   }
+}
+function toggleAreas (){
+   if ($('#sub_areas').css('display') == "none"){
+       $('#sub_areas').css('display', 'block');
+       $('#areas_bluedot').css('display','inline');
+       $('#areas_blackdot').css('display', 'none');
+   }else{
+       $('#sub_areas').css('display', 'none');
+       $('#areas_blackdot').css('display', 'inline');
+       $('#areas_bluedot').css('display','none');
+   }
+}
+$(function (){
+   if((foswiki.getPreference('TOPIC') == 'BusquedaDeToolbox' &amp;&amp; foswiki.getPreference('WEB') == 'Empleados') || (foswiki.getPreference('WEB') == 'Metodologia') || (foswiki.getPreference('WEB') == 'Portafolio') || (foswiki.getPreference('TOPIC') == 'BibliotecaChoucair' &amp;&amp; foswiki.getPreference('WEB') == 'Empleados') || (foswiki.getPreference('WEB') == 'Metodologia/EspecificidadServiciosYProductos') || foswiki.getPreference('WEB').search('Toolbox') &gt; 0){
+      &lt;!--toggleMetodos(); --&gt;
+  }
+   if( foswiki.getPreference('TOPIC').search('Directorio') &lt; 0 &amp;&amp; foswiki.getPreference('WEB').search('Directorio') &lt; 0 &amp;&amp; ((foswiki.getPreference('WEB') == 'Main' &amp;&amp; foswiki.getPreference('TOPIC') == 'WebHome')  || (foswiki.getPreference('WEB') == 'Empleados' &amp;&amp; foswiki.getPreference('TOPIC') != 'CafeChoucair')|| foswiki.getPreference('WEB') == 'Mercadeo' || foswiki.getPreference('WEB') == 'TalentoHumano' || foswiki.web == 'GestionDelConocimiento') || foswiki.getPreference('WEB').search('Eventos') &gt; 0 || foswiki.getPreference('WEB').search('Noticias') &gt; 0 || foswiki.getPreference('WEB').search('Recomendados') &gt; 0 || foswiki.getPreference('WEB').search('kaizen') &gt; 0){
+      toggleChoucair();
+  }
+});
+function actionSearch(){
+   $('#quickSearchBox').focus();
+   return 1;
+}
+</script>
+</p><p>
+</p><p>
+</p><hr />
+<p>
+</p></div><!-- /patternSideBarContents--></div><!-- /patternSideBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear"> </div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><style>
+.patternContent {background: #FFFFFF url(/pub/Main/SitePreferences/qs.png) no-repeat 100% 100%;}
+#patternTopBar {position: fixed;}
+.patternMetaMenu ul li {display: block; margin-top: 5px;}
+</style>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
+<tbody><tr><td valign="top"><span id="foswikiLogo" class="foswikiImage"><a href="http://planet.choucairtesting.com/bin/view/Main/WebHome"><img src="http://planet.choucairtesting.com/pub/System/LogosChoucair/logochoucair.jpg" border="0" alt="Powered by Foswiki, The Free and Open Source Wiki" style="border:none;" /></a></span></td>
+<td align="right" valign="bottom">
+<h2 style="color: #FFFFFF; margin-right: 30px; font-size: 2.2em;">COCOA</h2>
+</td>
+<td width="400px" align="right" valign="top" class="patternMetaMenu">
+ <ul>
+<li> <form name="jumpForm" action="/bin/view/Empleados/DirectorioEmpleados"><input id="jumpFormField" type="text" class="foswikiInputField foswikiInputFieldBeforeFocus" name="topic" value="" size="18" /><noscript>&amp;nbsp;&lt;input type="submit" class="foswikiButton" size="5" name="submit" value="Ir a" /&gt;&amp;nbsp;</noscript>   </form>
+</li> <li> <form name="quickSearchForm" action="/bin/view/Empleados/WebSearch"><input type="text" class="foswikiInputField foswikiInputFieldBeforeFocus" id="quickSearchBox" name="search" value="" size="18" /><input type="hidden" name="scope" value="all" /><input type="hidden" name="web" value="Empleados" /><noscript>&amp;nbsp;&lt;input type="submit" size="5" class="foswikiButton" name="submit" value="Buscar" /&gt;&amp;nbsp;</noscript>   </form>
+</li> <li> <a style="color: white;" href="/bin/view/Empleados/DirectorioEmpleados?#patternMain" rel="nofollow" title="Volver Arriba">Volver Arriba</a>
+</li></ul> 
+<!--   * <form name="changeLanguage" action="/bin/oops/Empleados/DirectorioEmpleados" method="get"><select name="language" class="foswikiSelect" onchange="document.changeLanguage.submit()"><option  value="en">English</option> <option selected="selected" value="es">Español</option></select><input type="hidden" name="template" value="oopslanguagechanged" /><noscript><input class="foswikiButton" type="submit" value="Cambiar idioma" /></noscript></form> -->
+</td></tr></tbody></table></div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><div id="patternWebBottomBar"><b>Choucair Cardenas Testing. Todos los derechos reservados.  © 2012 Choucair.</b><br />La información contenida en esta página, así como la información que contienen sus archivos adjuntos es información privilegiada y confidencial y pertenece de forma exclusiva a CHOUCAIR CARDENAS TESTING S.A., por lo que revelarla o copiarla a terceras personas le está prohibido. Queda notificado que la utilización, divulgación y/o copia del mismo está prohibida según las normas legales aplicables, pudiendo ser sujeto de sanciones, incluidas las penales.</div><!--/patternWebBottomBar--></div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen-->
+</div><!-- /foswikiPage--><!-- GOOGLEANALYTICSPLUGIN --><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-23719701-1"]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body></html>

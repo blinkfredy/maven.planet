@@ -11,8 +11,8 @@ public class empleadosdefinition {
 	@Steps
 	empleadossteps empleadosSteps;
 	
-	@Given("^logeado en planet \"([^\"]*)\" y \"([^\"]*)\"$")
-	public void logeado_en_planet_y(String usuario, String password) throws Throwable {
+	@Given("^logeado en planet con usuario \"([^\"]*)\" y clave \"([^\"]*)\"$")
+	public void logeado_en_planet_con_usuario_y_clave(String usuario, String password) throws Throwable {
 		empleadosSteps.abrir_planet();
 		empleadosSteps.ingresar_usuario(usuario);
 		empleadosSteps.ingresar_password(password);
@@ -23,13 +23,18 @@ public class empleadosdefinition {
 
 	}
 
-	@When("^realizo busqueda de empleado$")
-	public void realizo_busqueda_de_empleado() throws Throwable {
-}
+	@When("^realizo busqueda de empleado con nombre \"([^\"]*)\" y apellidos \"([^\"]*)\"$")
+	public void realizo_busqueda_de_empleado_con_nombre_y_apellidos(String nombre, String apellidos) throws Throwable {		
+		empleadosSteps.txtNombre(nombre);
+		empleadosSteps.txtApellidos(apellidos);
+		//empleadosSteps.cmbPais(pais);
+		//empleadosSteps.cmbCiudad(ciudad);
+		empleadosSteps.lnkBuscar();
+	}
 
-	@Then("^retorna cantidad de empleados$")
-	public void retorna_cantidad_de_empleados() throws Throwable {
-
+	@Then("^retorna \"([^\"]*)\" empleados$")
+	public void retorna_empleados(String i) throws Throwable {
+		empleadosSteps.VerificarResultado(i);
 	}
 
 }

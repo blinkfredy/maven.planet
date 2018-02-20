@@ -31,12 +31,44 @@ public class empleadossteps {
 	public void verificar_login() {
 		empleadosPageObjects.VerificaLogin();
 	} 
+	
 	@Step
 	public void click_encuentrame() {
 		empleadosPageObjects.click_encuentrame();
 	} 
+	
 	@Step
 	public void click_empleados() {
 		empleadosPageObjects.click_empleados();
+	} 
+	
+	@Step
+	public void txtNombre(String nombre) {
+		empleadosPageObjects.txtNombre(nombre);
+	} 
+	
+	@Step
+	public void txtApellidos(String apellido) {
+		empleadosPageObjects.txtApellidos(apellido);
+	} 
+	
+	@Step
+	public void cmbPais(String pais) {
+		empleadosPageObjects.cmbPais(pais);
+	} 
+	
+	@Step
+	public void cmbCiudad(String ciudad) {
+		empleadosPageObjects.cmbCiudad(ciudad);
+	} 
+	
+	@Step
+	public void lnkBuscar() {
+		empleadosPageObjects.lnkBuscar();		
+	} 
+	
+	@Step
+	public void VerificarResultado(String i) {
+		empleadosPageObjects.VerificaResult(i);		
 	} 
 }
