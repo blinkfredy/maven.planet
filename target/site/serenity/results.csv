@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"busqueda empleados","buscar por nombre","SUCCESS","16:25:33","0.0","22.85"
-"busqueda empleados","buscar por nombre y apellido","SUCCESS","16:41:08","0.0","24.26"
+"busqueda empleados","buscar por nombre y apellido","SUCCESS","19:05:10","0.0","44.52"
+"busqueda empleados","buscar por país, ciudad y cargo","SUCCESS","19:05:56","0.0","56.12"
+"busqueda empleados","buscar por cargo y cliente","SUCCESS","19:06:53","0.0","43.88"

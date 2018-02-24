@@ -63,6 +63,16 @@ public class empleadossteps {
 	} 
 	
 	@Step
+	public void cmbCargo(String cargo) {
+		empleadosPageObjects.cmbCargo(cargo);
+	} 
+	
+	@Step
+	public void cmbCliente(String cliente) {
+		empleadosPageObjects.cmbCliente(cliente);
+	} 
+	
+	@Step
 	public void lnkBuscar() {
 		empleadosPageObjects.lnkBuscar();		
 	} 

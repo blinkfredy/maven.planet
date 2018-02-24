@@ -4,6 +4,8 @@ package maven.planet.pageobjects;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
 
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.By;
 
 import net.serenitybdd.core.pages.PageObject;
@@ -48,21 +50,30 @@ public class empleadospageobjects extends PageObject {
 	}
 	
 	public void cmbPais(String pais) {		
-		findBy("//*[@id=\"pais\"]").and().selectByVisibleText(pais);	
+		findBy("//*[@id=\"pais\"]").and().selectByVisibleText(pais);	//Colombia
 	}
 	
 	public void cmbCiudad(String ciudad) {		
 		findBy("//*[@id=\"ciudad\"]").and().selectByVisibleText(ciudad);//Medellín	
 	}
 	
+	public void cmbCliente(String cliente) {		
+		findBy("//*[@id=\"cliente\"]").and().selectByVisibleText(cliente);//BTG Pactual	
+	}
+	
+	public void cmbCargo(String cargo) {		
+		findBy("//*[@id=\"cargo\"]").and().selectByVisibleText(cargo);//Automatizador - Analista de Pruebas	
+	}
+	
 	public void lnkBuscar() {		
 		findBy("//*[@id=\"patternMainContents\"]/div[3]/div[1]/div[1]/table/tbody/tr[4]/td/a").and().click();
 		WebElementFacade imgLoading = find(By.xpath("//*[@id='loadingsearch']"));
-		imgLoading.waitUntilNotVisible();
+		imgLoading.withTimeoutOf(10, TimeUnit.MINUTES).waitUntilNotVisible();
 	}
 	
 	public void VerificaResult(String i) {
 		WebElementFacade lblResult = find(By.xpath("//*[@id='tablaempleados']/tbody/tr/td/span[@style='float: left']"));
+		
 		String strMensaje = lblResult.getText();
 		assertThat(strMensaje, containsString("Se encontraron "+i+" empleados"));		
 	}
