@@ -61,11 +61,12 @@ public class empleadospageobjects extends PageObject {
     private WebElementFacade lnkBuscar;
 	
 	@FindBy(xpath="//*[@id='loadingsearch']")
-    private WebElementFacade imgLoading;
-	
+    private WebElementFacade imgLoading;	
 	
 	@FindBy(xpath="//*[@id='tablaempleados']/tbody/tr/td/span[@style='float: left']")
     private WebElementFacade lblResult;
+	
+	
 	
 	public void usuario(String usuario) {		
 		txtUser.type(usuario);		

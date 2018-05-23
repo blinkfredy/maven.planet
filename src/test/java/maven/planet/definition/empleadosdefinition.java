@@ -1,5 +1,8 @@
 package maven.planet.definition;
 
+import java.util.List;
+
+import cucumber.api.DataTable;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -49,6 +52,21 @@ public class empleadosdefinition {
 		empleadosSteps.lnkBuscar();
 	}
 
+	@When("^realizo busqueda de empleado con todos los campos del formulario$")
+	public void realizo_busqueda_de_empleado_con_todos_los_campos_del_formulario(DataTable dtDatosPlanet) throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    // For automatic transformation, change DataTable to one of
+	    // List<YourType>, List<List<E>>, List<Map<K,V>> or Map<K,V>.
+	    // E,K,V must be a scalar (String, Integer, Date, enum etc)
+		List<List<String>> data   = dtDatosPlanet.raw();
+	    
+		for (int i = 1; i<data.size(); i++)
+		{
+			empleadosSteps.llenarFormularioEncuentrame(data, i);
+			empleadosSteps.lnkBuscar();
+		}
+	}
+	
 	@Then("^retorna \"([^\"]*)\" empleados$")
 	public void retorna_empleados(String i) throws Throwable {
 		empleadosSteps.VerificarResultado(i);

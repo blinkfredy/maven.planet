@@ -12,7 +12,7 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 @CucumberOptions(
 		glue = { "maven.planet" }
 		,features = {"src/test/resources/features/Busqueda/empleados.feature" }
-		,tags={"@Scenario1"}
+		,tags={"@Scenario4"}
 		)
 public class app {
 

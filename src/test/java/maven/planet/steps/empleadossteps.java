@@ -1,5 +1,7 @@
 package maven.planet.steps;
 
+import java.util.List;
+
 import maven.planet.pageobjects.empleadospageobjects;
 import net.thucydides.core.annotations.Step;
 
@@ -80,5 +82,15 @@ public class empleadossteps {
 	@Step
 	public void VerificarResultado(String i) {
 		empleadosPageObjects.VerificaResult(i);		
+	}
+
+	@Step
+	public void llenarFormularioEncuentrame(List<List<String>> data, int i) {			
+		empleadosPageObjects.txtNombre(data.get(i).get(0).trim());
+		empleadosPageObjects.txtApellidos(data.get(i).get(1).trim());
+		empleadosPageObjects.cmbPais(data.get(i).get(2).trim());
+		empleadosPageObjects.cmbCiudad(data.get(i).get(3).trim());
+		empleadosPageObjects.cmbCargo(data.get(i).get(4).trim());
+		empleadosPageObjects.cmbCliente(data.get(i).get(5).trim());		
 	} 
 }
