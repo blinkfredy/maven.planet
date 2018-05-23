@@ -1,7 +1,7 @@
 @FeatureTest
 Feature: busqueda empleados
 
-	@Scenario1
+  @Scenario1
   Scenario: buscar por nombre y apellido
     Given logeado en planet con usuario "ralvarez" y clave "Bendicion2015d"
     And ingresando a buscar empleado

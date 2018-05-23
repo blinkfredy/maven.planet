@@ -9,8 +9,11 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 //@CucumberOptions(features ="src/test/resources/features/")
 //@CucumberOptions(features ="src/test/resources/features/Busqueda/empleados.feature")
 //@CucumberOptions(features ="src/test/resources/features/ColorLib/nombre.feature")
-@CucumberOptions(glue = { "maven.planet" }, features = {
-"src/test/resources/features/Busqueda/empleados.feature" })
+@CucumberOptions(
+		glue = { "maven.planet" }
+		,features = {"src/test/resources/features/Busqueda/empleados.feature" }
+		,tags={"@Scenario1"}
+		)
 public class app {
 
 }
